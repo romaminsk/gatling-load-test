@@ -1,0 +1,6 @@
+/Users/roma/IdeaProjects/gatling-load-test/src/test/java/com/example/config/AppConfig.java
+/Users/roma/IdeaProjects/gatling-load-test/src/test/java/com/example/feeders/TestData.java
+/Users/roma/IdeaProjects/gatling-load-test/src/test/java/com/example/scenarios/UserScenarios.java
+/Users/roma/IdeaProjects/gatling-load-test/src/test/java/com/example/simulations/ReliabilitySimulation.java
+/Users/roma/IdeaProjects/gatling-load-test/src/test/java/com/example/simulations/StepCapacitySimulation.java
+/Users/roma/IdeaProjects/gatling-load-test/src/test/java/com/example/steps/WebToursSteps.java
